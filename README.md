@@ -9,30 +9,21 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently building **Data Alchemist** – an AI-powered resource allocation & configurator web app
+
+- 🤝 I’m actively looking for full-time roles, internships, or collaboration opportunities in Web Development, Web3, or AI
 - 💡 Exploring **Solana smart contracts**, **Anchor**, **Rust**, **AI integrations**, and scalable full-stack systems
 - 👨‍💻 Regularly working with **MERN stack**, **Next.js**, and **Prisma**
 - 🤝 Open to collaborating on **Web3 projects**, **AI tools**, or anything that challenges convention
-- ✍️ Sometimes I share my learnings and code breakdowns
-- ⚡ Fun fact: I treat my side-projects like boss fights. There's always a new skill or bug to defeat 🧩
+
+
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" alt="Solidity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" alt="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-</p>
+
+ <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" alt="Solidity" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" alt="Rust" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="40" alt="Ethereum" /> <img src="https://raw.githubusercontent.com/solana-labs/solana-web3.js/master/logo.svg" width="40" alt="Solana" />  </p>
+
 
 ---
 
@@ -42,10 +33,10 @@
   <a href="https://www.linkedin.com/in/banti-kumar-725059243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:bantikumar7034@gmail.com" target="_blank">
+  <a href="mailto:bantikumar6203818460@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/banti_kmr" target="_blank">
+  <a href="https://x.com/Banti_Kumar_62" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -66,20 +57,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banti4750&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
 
-### 🧠 Quote of the Day
 
-> "Don’t wait for opportunity. Create it." – Unknown
 
----
-
-### ✨ Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Banti4750/count.svg" />
-</p>
-
----
 
 ⭐️ From [Banti Kumar](https://github.com/Banti4750)
