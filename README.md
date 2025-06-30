@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Banti Kumar</h1>
 <h3 align="center">A passionate full-stack & Web3 developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full-Stack+%2B+Web3+Developer+🧠;Solving+real+problems+with+code+🚀;Building+AI%2C+DeFi%2C+and+modern+web+tools" alt="Typing SVG" />
-</p>
+
 
 ---
 
@@ -30,7 +28,7 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/banti-kumar-725059243/" target="_blank">
+  <a href="https://www.linkedin.com/in/banti-kumar-5b1109259" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bantikumar6203818460@gmail.com" target="_blank">
