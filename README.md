@@ -27,17 +27,23 @@
 
 ### 🌐 Let's Connect
 
-<p align="left">
   <a href="https://www.linkedin.com/in/banti-kumar-5b1109259" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br/>
+  <a href="https://banti-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio Badge" />
+  </a>
+  <br/>
   <a href="mailto:bantikumar6203818460@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br/>
   <a href="https://x.com/Banti_Kumar_62" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</p>
+  <br/>
+
 
 ---
 
