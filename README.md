@@ -94,6 +94,7 @@
 
 ## 🌐 Connect With Me
 
+* 🔗 **Resume**: [Resume](https://drive.google.com/file/d/1ZhxFTgP5mpJfH1o8Uv1Np_sR0o74bcOb/view?usp=sharing)
 * 🔗 **LinkedIn**: [https://www.linkedin.com/in/banti-kumar-5b1109259](https://www.linkedin.com/in/banti-kumar-5b1109259)
 * 🌍 **Portfolio**: [https://banti-dev.vercel.app](https://banti-dev.vercel.app)
 * 📧 **Email**: [bantikumar6203818460@gmail.com](mailto:bantikumar6203818460@gmail.com)
