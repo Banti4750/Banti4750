@@ -81,24 +81,6 @@
 * CI/CD fundamentals
 * Debugging & logging in production-like environments
 
----
-
-## 📌 Selected Projects
-
-* 🔁 **Order Matching Engine**
-  Backend-heavy system with partial fills, liquidity tracking, and concurrency handling
-
-* 🛒 **Scalable E-commerce Backend**
-  Redis caching, wallet & reward logic, SQL + MongoDB support
-
-* ⚡ **Real-time Applications**
-  Live updates and notifications using WebSockets
-
-* 🧠 **AI-Powered Resume Builder**
-  Full-stack application with intelligent job matching
-
-* 🐳 **Containerized MERN Applications**
-  Docker + Kubernetes-based deployment practice
 
 ---
 
