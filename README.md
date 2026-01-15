@@ -84,13 +84,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Banti4750\&show_icons=true\&count_private=true\&bg_color=1c1917\&title_color=facc15\&icon_color=facc15\&text_color=ffffff\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Banti4750\&layout=compact\&langs_count=10\&bg_color=1c1917\&title_color=facc15\&text_color=ffffff\&hide_border=true)
-
----
 
 ## 🌐 Connect With Me
 
