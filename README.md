@@ -139,6 +139,8 @@ mindset: "Backend-first. Reliability over hype."
 
 </div>
 
+
+
 <div align="center">
 
 > *"Backend-first mindset. Reliability over hype."*
