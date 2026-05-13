@@ -96,28 +96,7 @@ mindset: "Backend-first. Reliability over hype."
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Banti4750&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banti4750&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Banti4750&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=06b6d4&currStreakLabel=06b6d4" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-[![Banti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Banti4750&bg_color=0d1117&color=6366f1&line=06b6d4&point=ffffff&area=true&hide_border=true)](https://github.com/Banti4750)
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
